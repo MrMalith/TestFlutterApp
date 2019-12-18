@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5beea50b-258c-4cd1-a1dc-ad90e3396f94" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +22,11 @@
     <select />
   </component>
   <component name="ProjectId" id="1Txv2Qc2ASUek2YFfjeX516xtvs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -32,26 +36,26 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.startup.tasks" />
     <property name="show.migrate.to.gradle.popup" value="false" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="TestApp" type="FlutterRunConfigurationType" factoryName="Flutter" singleton="false">
       <option name="filePath" value="$PROJECT_DIR$/third/lib/main.dart" />
       <method v="2" />
     </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,11 +68,39 @@
       <workItem from="1574442718042" duration="30000" />
       <workItem from="1574453828652" duration="239000" />
       <workItem from="1576566543971" duration="76000" />
-      <workItem from="1576566917247" duration="8598000" />
+      <workItem from="1576566917247" duration="11705000" />
+      <workItem from="1576613186547" duration="218000" />
+      <workItem from="1576613424839" duration="2545000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576613363055">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1576613363055" />
+    <state width="746" height="141" key="GridCell.Tab.0.bottom" timestamp="1576613874786">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="141" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1576613874786" />
+    <state width="746" height="141" key="GridCell.Tab.0.center" timestamp="1576613874785">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="141" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1576613874785" />
+    <state width="746" height="141" key="GridCell.Tab.0.left" timestamp="1576613874785">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="141" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1576613874785" />
+    <state width="746" height="141" key="GridCell.Tab.0.right" timestamp="1576613874785">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="141" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1576613874785" />
+    <state x="277" y="59" key="SettingsEditor" timestamp="1576613538568">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1576613538568" />
   </component>
 </project>
