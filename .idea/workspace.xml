@@ -32,11 +32,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Android dev/Bus-Booking" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.startup.tasks" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager">
@@ -71,7 +71,17 @@
       <workItem from="1576566917247" duration="11705000" />
       <workItem from="1576613186547" duration="218000" />
       <workItem from="1576613424839" duration="4649000" />
-      <workItem from="1577188729835" duration="189000" />
+      <workItem from="1577188729835" duration="2970000" />
+      <workItem from="1579622846116" duration="599000" />
+      <workItem from="1580533102577" duration="65000" />
+      <workItem from="1580534771824" duration="57000" />
+      <workItem from="1581223926387" duration="219000" />
+      <workItem from="1582951945565" duration="405000" />
+      <workItem from="1582952366340" duration="1953000" />
+      <workItem from="1582957559928" duration="1060000" />
+      <workItem from="1583383803756" duration="191000" />
+      <workItem from="1583384043555" duration="63000" />
+      <workItem from="1583463109622" duration="309000" />
     </task>
     <servers />
   </component>
@@ -79,29 +89,45 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="75" key="#Notifications" timestamp="1581224060056">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="75" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1581224060056" />
+    <state x="361" y="75" key="#Updates" timestamp="1583384101283">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="75" key="#Updates/0.0.1536.834@0.0.1536.834" timestamp="1583384101283" />
     <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576613363055">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1576613363055" />
-    <state width="1493" height="141" key="GridCell.Tab.0.bottom" timestamp="1576679807215">
+    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1583463414707">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="141" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1576679807215" />
-    <state width="1493" height="141" key="GridCell.Tab.0.center" timestamp="1576679807215">
+    <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1583463414707" />
+    <state width="1493" height="141" key="GridCell.Tab.0.bottom" timestamp="1583463420378">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="141" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1576679807215" />
-    <state width="1493" height="141" key="GridCell.Tab.0.left" timestamp="1576679807215">
+    <state width="1493" height="141" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1583463420378" />
+    <state width="1493" height="141" key="GridCell.Tab.0.center" timestamp="1583463420378">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="141" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1576679807215" />
-    <state width="1493" height="141" key="GridCell.Tab.0.right" timestamp="1576679807215">
+    <state width="1493" height="141" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1583463420378" />
+    <state width="1493" height="141" key="GridCell.Tab.0.left" timestamp="1583463420377">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="141" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1576679807215" />
-    <state x="277" y="59" key="SettingsEditor" timestamp="1576613538568">
+    <state width="1493" height="141" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1583463420377" />
+    <state width="1493" height="141" key="GridCell.Tab.0.right" timestamp="1583463420378">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="277" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1576613538568" />
+    <state width="1493" height="141" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1583463420378" />
+    <state x="277" y="59" key="SettingsEditor" timestamp="1582965902456">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1582965902456" />
+    <state x="209" y="37" key="new project wizard" timestamp="1577639929390">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="37" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1577639929390" />
   </component>
 </project>
